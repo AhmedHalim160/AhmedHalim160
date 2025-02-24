@@ -1,9 +1,16 @@
-# Hi there 👋
- ## I'm Ahmed Halim
-# Data Analyst
+<h1 align="center">Hi 👋 I'm Ahmed Halim</h1>
+<h3 align="center">Data Analyst</h3> <br>
 
 Experienced Data Analyst proficient in data management, statistical analysis, and visualization using tools like Power BI, Python, and Excel. Skilled in advanced DAX functions and creating insightful dashboards to drive business decisions.
 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=300&color=8CC84B&center=true&vCenter=true&width=600&height=100&lines=Data+Analysis;Sentiment+Analysis;" alt="Typing SVG" />
+  </a>
+</p>
+<p align="center">
+  <span style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: bold; font-size: 16px; color: #6C757D;"></span>
+</p>
 
 ##  🌐 Socials<span style="display: inline-block;">
 <p align="left">
