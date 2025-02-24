@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Ahmed Halim</h1>
-<h3 align="center">Data Analyst</h3> <br>
+<h2 align="center">Data Analyst</h2> <br>
 
-# Experienced Data Analyst proficient in data management, statistical analysis, and visualization using tools like Power BI, Python, and Excel. Skilled in advanced DAX functions and creating insightful dashboards to drive business decisions.
+ Experienced Data Analyst proficient in data management, statistical analysis, and visualization using tools like Power BI, Python, and Excel. Skilled in advanced DAX functions and creating insightful dashboards to drive business decisions.
 
 <p align="center">
   <a href="https://git.io/typing-svg">
